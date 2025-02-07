@@ -2,7 +2,7 @@
 title: Ya disponible
 published: 2024-10-09
 description: Silet Hill 2, a horas de su lanzamiento ya se posiciona en los más vendidos
-image: 'https://cdn.sortiraparis.com/images/1001/66131/1104437-silent-hill-2-nouvelle-bande-annonce-pour-le-remake-du-jeu-de-konami.jpg'
+image: 'https://www.irrompibles.net/irrwp/wp-content/uploads/2024/10/Sillent-Hill-2-remake-KEY-ART.jpg'
 tags: [Juegos, Steam, Novedad]
 category: Más vendidos
 draft: false
@@ -30,7 +30,7 @@ Atraído por una carta de su esposa fallecida, James se adentra en el misterioso
 ![Imagen de Silent hill](https://gmedia.playstation.com/is/image/SIEPDC/silent-hill-2-screenshot-classic-ps5-en-29may24?$1600px$) 
 Un remake del SILENT HILL 2 de 2001 con nuevos gráficos de avanzada que incluyen trazado de rayos. Mira el perturbador mundo de Silent Hill como nunca antes, y disfruta de una experiencia narrativa aun más inmersiva.
 ## Piérdete en la niebla:
-![Imagen de Silent hill](https://www.playstation.com/es-ar/games/silent-hill-2/) 
+![Imagen de Silent hill](https://sm.ign.com/t/ign_latam/news/s/silent-hil/silent-hill-2-remake-developer-appeals-for-patience-as-fans_mqd5.1280.jpg) 
     Sumérgete en un nuevo nivel de tecnología gráfica, potenciada por Unreal Engine 5. Aprovecha los paisajes sonoros realistas del entorno y sumérgete por completo en el mundo de Silent Hill.
 ## Combate mejorado e inmersivo:
 ![Imagen de Silent hill](https://gmedia.playstation.com/is/image/SIEPDC/silent-hill-2-screenshot-combat-en-29may24?$1600px$) 
